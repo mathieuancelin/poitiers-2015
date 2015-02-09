@@ -20,7 +20,7 @@ Mercredi 11 février
 * 10h30 - 12h30
  * TP : TODO list avec Play!
 
-Jeudi 12 avrfévrieril
+Jeudi 12 février
 ------------------------
 * 8h15 - 12h30
  * TP : surprise ...
