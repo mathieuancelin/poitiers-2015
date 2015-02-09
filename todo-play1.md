@@ -3,7 +3,7 @@ Play : la TODO list
 
 Nous allons réaliser aujourd'hui une simple `TODO list` en utilisant diverses APIs misent à disposition par Play ainsi qu'une bonne dose de Javascript. L'application à réaliser ressemblera à [quelque chose comme ça](http://ancelin.org/example/). Cette application exposera des services REST qui seront consommés par une IHM en Javascript.
 
-Commencez par télécharger le squelette du TP [ici](https://raw.githubusercontent.com/mathieuancelin/poitiers-2015/master/todo-starter.zip). 
+Commencez par télécharger le squelette du TP [ici](https://raw.githubusercontent.com/mathieuancelin/poitiers-2015/master/todo-play1-starter.zip). 
 Le projet contient déjà le minimum vital pour avoir une application qui fonctionne. De plus le projet contient une IHM de démo pour tester vos services ainsi qu'un outil de diagnostic pour vérifier que votre implémentation tient la route.
 
 I. Partie Serveur
