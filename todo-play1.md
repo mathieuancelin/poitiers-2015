@@ -33,10 +33,10 @@ Cette classe doit répondre au contrat suivant :
 * GET    /api/tasks        => récupération de toutes les instances de tâches
 * POST   /api/tasks        => création une nouvelle tâche 
 * PUT    /api/tasks/{id}   => mise à jour d'une tâche
-* DELETE /api/tasks        => supression d'une tâche en particulier
-* DELETE /api/tasks/done   => supression des tâches finies
+* DELETE /api/tasks        => suppression de toutes les tâches
+* DELETE /api/tasks/done   => suppression des tâches finies
 * GET    /api/tasks/{id}   => récupération d'une tâche
-* DELETE /api/tasks/{id}   => suppression d'une tâche
+* DELETE /api/tasks/{id}   => suppression d'une tâche en particulier
 
 Voici un exemple de classe répondant à ce contrat
 
