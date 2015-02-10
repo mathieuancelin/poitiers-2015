@@ -3,7 +3,7 @@ TP Java EE : la TODO list
 
 Nous allons réaliser aujourd'hui une simple `TODO list` en utilisant diverses technologies Java EE : EJB, JAX-RS (client + server), JPA, CDI ainsi qu'une bonne dose de Javascript. L'application à réaliser ressemblera à [quelque chose comme ça](http://ancelin.org/example/). Cette application exposera des services REST qui seront consommés par une IHM en Javascript.
 
-Commencez par télécharger le squelette du TP [ici](https://raw.githubusercontent.com/mathieuancelin/jpoitiers-2015/master/todo-starter.zip). Si vous utilisez un poste de la fac, il faudra installer la dernière version de Netbeans + Glassfish.
+Commencez par télécharger le squelette du TP [ici](https://raw.githubusercontent.com/mathieuancelin/poitiers-2015/master/todo-starter.zip). Si vous utilisez un poste de la fac, il faudra installer la dernière version de Netbeans + Glassfish.
 
 Le projet contient déjà le minimum vital pour avoir une application qui fonctionne. De plus le projet contient une IHM de démo pour tester vos service ainsi qu'un outil de diagnostique pour vérifier que votre implémentation tient la route.
 
