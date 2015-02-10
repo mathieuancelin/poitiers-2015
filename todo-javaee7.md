@@ -141,10 +141,10 @@ Cette classe doit répondre au contrat suivant :
 * GET    /Todo/api/tasks       => récupération toutes les instances de tâches
 * POST   /Todo/api/tasks       => création une nouvelle tâche 
 * PUT    /Todo/api/tasks/:id   => mise à jour d'une tâche
-* DELETE /Todo/api/tasks       => supression d'une tâche en particulier
+* DELETE /Todo/api/tasks       => supression de toutes les tâches
 * DELETE /Todo/api/tasks/done  => supression des tâches finies
 * GET    /Todo/api/tasks/:id   => récupération d'une tâche
-* DELETE /Todo/api/tasks/:id   => suppression d'une tâche
+* DELETE /Todo/api/tasks/:id   => suppression d'une tâche en particulier
 
 Voici un exemple de classe répondant à ce contrat
 
